@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
 <head>
   <meta charset="utf-8">
-  <title>map</title>
+  <title>Smart Car Park System---Map</title>
   <link rel="stylesheet" href="css/index.css">
 </head>
     <body>
