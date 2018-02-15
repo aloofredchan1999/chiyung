@@ -11,18 +11,13 @@ and open the template in the editor.
   <link rel="stylesheet" href="css/index.css">
 </head>
     <body>
-
-            <div class="centerBody">
-            <div class="header">
-            <?php include 'login.html'; ?>
-             </div>
-             <?php include 'Menu.html'; ?>
-
+          <div class="centerBody">
+              <div class="header">
+                <?php include 'login.html'; ?>
+              </div>
+            <?php include 'Menu.html'; ?>
             <h1>Map</h1>
             <img src="img/1129-5.jpg">
-            </div>
-
-
-
+          </div>
     </body>
 </html>
